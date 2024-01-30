@@ -1,5 +1,8 @@
 # CapabilityExample
 
+## Capabilities is a design pattern / structure developed at Hazelight.
+This project is the simplest example of Capabilities.
+
 The Capability folder holds the system / structure itself. 
 This is just an example of how a CapabilityTickManager could be implemented. 
 I strongly encourage you to modify the classes to suit your specific needs.
