@@ -18,3 +18,5 @@ The Bow actor is an example of how capabilities can look like in action.
 * Capabilities are isolated files <- No spaghetti or awareness of other capabilities!
 * One way street communication
 
+You could describe a capability as a state which decides on its own when to be active.
+
