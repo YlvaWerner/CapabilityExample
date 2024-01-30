@@ -1,4 +1,7 @@
 # CapabilityExample
+# Dependencies
+The project requires unreal with angelscript
+https://angelscript.hazelight.se/getting-started/installation/
 
 ## Capabilities is a design pattern / structure developed at Hazelight.
 This project is the simplest example of Capabilities.
